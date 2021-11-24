@@ -1,5 +1,5 @@
 # futter_starter
 
-A simple Flutter starter setup.
+A simple Flutter starter setup template.
 
 

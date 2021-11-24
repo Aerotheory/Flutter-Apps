@@ -1,3 +1,3 @@
-# Flutter-Starter-Template
+# Flutter-Template
 
 Simple Flutter starter template.

@@ -1,2 +1,2 @@
 # Flutter-Starter
-Simple Flutter starter boilerplate.
+Simple Flutter starter template.
